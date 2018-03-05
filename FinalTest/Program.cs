@@ -10,7 +10,7 @@ namespace FinalTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Final Test Repository");
+            Console.WriteLine("Final Test Repository Nick`s changes");
         }
     }
 }
